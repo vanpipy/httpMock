@@ -1,1 +1,3 @@
-console.log('test');
+import HttpMock from './HttpMock';
+
+export { HttpMock };
